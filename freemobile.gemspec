@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Freemobile::VERSION
   spec.authors       = ["CkuT"]
   spec.email         = ["s3cu@hotmail.fr"]
-  spec.summary       = %q{aaaa}
-  spec.description   = %q{aaa}
+  spec.summary       = %q{Freemobile gem allows you to use Freemobile API}
+  spec.description   = %q{You can send SMS through Freemobile API}
   spec.homepage      = ""
   spec.license       = "MIT"
 
