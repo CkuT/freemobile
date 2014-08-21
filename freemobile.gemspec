@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["CkuT"]
   spec.email         = ["s3cu@hotmail.fr"]
   spec.summary       = %q{Freemobile gem allows you to use Freemobile API}
-  spec.description   = %q{You can send SMS through Freemobile API}
-  spec.homepage      = ""
+  spec.description   = %q{This gem allows you to send SMS notifications on your phone through the French mobile provider "Free"}
+  spec.homepage      = "https://github.com/CkuT/freemobile"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
